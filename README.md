@@ -1,5 +1,6 @@
 # ArvindaEyeCare
 
+Use TPU or any other flexible filament
 Things required to buy: 2 springs and a normal hinge
 ## Problem
 
