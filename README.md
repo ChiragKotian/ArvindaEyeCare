@@ -14,18 +14,20 @@ Use TPU or any other flexible filament
 
 Things required to buy: 2 springs and a normal door hinge
 
-## Problem
-
-
-https://github.com/ChiragKotian/ArvindaEyeCare/assets/117931123/be7dc09b-11b5-4b16-a0cd-b55fa14e8b5a
-
-
+## Videos describing the problem
 
 https://github.com/ChiragKotian/ArvindaEyeCare/assets/117931123/07021684-1a12-4d82-9c30-0ca5bd5c1ed4
 
 
 
 https://github.com/ChiragKotian/ArvindaEyeCare/assets/117931123/fa078999-4d02-4898-8e32-154254611866
+
+
+https://github.com/ChiragKotian/ArvindaEyeCare/assets/117931123/be7dc09b-11b5-4b16-a0cd-b55fa14e8b5a
+
+
+
+
 
 
 
