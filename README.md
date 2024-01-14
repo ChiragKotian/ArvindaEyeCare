@@ -1,7 +1,19 @@
 # ArvindaEyeCare
+## Introduction
+Arvinda Eye Care Hospital approached our college seeking innovative solutions to address practical challenges in their daily operations during a hackathon. One prominent issue faced by doctors involved the tedious process of manually holding different lenses in front of patients' eyes while using a slit lamp for eye examinations. Recognizing the urgency and importance of the task, my friend and batchmate, Manas Poddar, participated in this hackathon and asked my assistance in designing a practical solution within a tight timeframe of 5 hours.
+
+In response to this challenge, I conceptualized and designed a custom 3D CAD model using Onshape. The objective was to create an affordable yet highly effective lens holder that could significantly streamline the eye check-up process for the doctors at Arvinda Eye Care Hospital. The key features of the 3D model included an adjustable lens holder capable of smooth pitch and yaw movements, facilitating easy positioning during examinations. Additionally, the design incorporated a hinge, allowing the lens to be effortlessly lifted up and down based on the need to use the lens.
+
+To enhance usability and efficiency, the lens holder was equipped with a spring-loaded mechanism. This ensured a secure and stable lens, preventing any unintended movements during examinations. The use of flexible materials, such as TPU (Thermoplastic Polyurethane), or any other suitable material for 3D printing, was specified in the design to easily attach it to a slit lamp.
+
+The final 3D-printable model not only addressed the immediate needs of the doctors at Arvinda Eye Care Hospital but also provided a cost-effective and easily deployable solution. The incorporation of user-friendly features aimed to alleviate the manual strain on doctors and improve the overall efficiency of eye examinations. The successful completion of this design project exemplifies the capability to quickly devise practical solutions to real-world challenges within tight constraints.
+
+## Note
 
 Use TPU or any other flexible filament
-Things required to buy: 2 springs and a normal hinge
+
+Things required to buy: 2 springs and a normal door hinge
+
 ## Problem
 
 
